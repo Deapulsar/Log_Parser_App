@@ -10,7 +10,7 @@
 1) Загрузить Jar-файл:\
 https://github.com/Deapulsar/Log_Parser_App/blob/main/out/artifacts/log_parsing_app_jar/log_parsing_app.jar
 2) Выполнить в консоли команду:\
-java -cp ПУТЬ\К\JAR-ФАЙЛУ com.example.LogParsingApp "ПУТЬ\К\LOG-ФАЙЛАМ"\
+java -cp __ПУТЬ\К\JAR-ФАЙЛУ__ com.example.LogParsingApp __"ПУТЬ\К\LOG-ФАЙЛАМ"__\
 Например:\
 java -cp C:\Users\User\Downloads\log_parsing_app.jar com.example.LogParsingApp "C:\Users\User\Desktop\logs"
 
